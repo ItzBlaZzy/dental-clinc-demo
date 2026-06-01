@@ -1,0 +1,6 @@
+{
+  "name": "Aeterna Premium Dental",
+  "description": "An ultra-luxurious, modern dental clinic offering elite cosmetic, implant, and general dentistry. Designed for optimal patient comfort and confidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
